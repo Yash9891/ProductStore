@@ -1,8 +1,8 @@
-# React + Vite
+# Product Store- MERN App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Check out the live version of the Product Store [here](https://productstore-7tqn.onrender.com/)
 
-Currently, two official plugins are available:
+Built a product store using the MERN stack (MongoDB, Express.js, React.js, Node.js) with functionalities to add, delete, list, and edit products, featuring a responsive UI for a seamless shopping experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![g1](https://github.com/user-attachments/assets/95ca1f88-2049-497a-8236-c8687ac02e5c)
+![g2](https://github.com/user-attachments/assets/2414d676-3339-4361-bdfd-1adb78baa46f)
